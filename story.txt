@@ -1,0 +1,1 @@
+It is a short story that be used to test by using Python.
